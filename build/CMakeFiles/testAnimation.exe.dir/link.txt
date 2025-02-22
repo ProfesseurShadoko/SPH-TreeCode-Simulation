@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/testAnimation.exe.dir/app/testAnimation.cpp.o CMakeFiles/testAnimation.exe.dir/src/animation.cpp.o CMakeFiles/testAnimation.exe.dir/src/kernel.cpp.o -o ../bin/testAnimation.exe  /usr/lib/x86_64-linux-gnu/libsfml-graphics.so.2.5.1 /usr/lib/x86_64-linux-gnu/libsfml-window.so.2.5.1 /usr/lib/x86_64-linux-gnu/libsfml-system.so.2.5.1 

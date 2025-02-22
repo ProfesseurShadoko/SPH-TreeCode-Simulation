@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/testTintoretto.exe.dir/app/testTintoretto.cpp.o -o ../bin/testTintoretto.exe 
