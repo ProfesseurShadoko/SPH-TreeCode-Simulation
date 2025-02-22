@@ -1,4 +1,4 @@
-eigen/
+lib/eigen/
 build/
 bin/
 scripts/
