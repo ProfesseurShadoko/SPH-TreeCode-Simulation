@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/testKernel.exe.dir/app/testKernel.cpp.o CMakeFiles/testKernel.exe.dir/src/kernel.cpp.o -o ../bin/testKernel.exe 

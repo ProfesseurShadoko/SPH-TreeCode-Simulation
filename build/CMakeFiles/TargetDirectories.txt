@@ -1,0 +1,3 @@
+/home/kiwi/documents/zurich/compastro_new/build/CMakeFiles/testAnimation.exe.dir
+/home/kiwi/documents/zurich/compastro_new/build/CMakeFiles/edit_cache.dir
+/home/kiwi/documents/zurich/compastro_new/build/CMakeFiles/rebuild_cache.dir
