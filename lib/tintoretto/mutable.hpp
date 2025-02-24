@@ -81,6 +81,10 @@ class MutableClass {
             std::this_thread::sleep_for(std::chrono::milliseconds(ms));
         }
 
+        static void par() {
+            print();
+        }
+
     protected:
         static std::string tab_to_str() {
             if (tab_count == 0) {
