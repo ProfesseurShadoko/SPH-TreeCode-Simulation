@@ -23,6 +23,7 @@ Animation::Animation(std::vector<std::shared_ptr<Frame>> frames) : frames(frames
     // create window and get information about the number of pixels
     this->window.create(sf::VideoMode::getDesktopMode(), "SFML works!", sf::Style::Fullscreen);
     this->phyicalOriginPosition = {window.getSize().x / 2.0, window.getSize().y / 2.0};
+    Message("Window size: " + std::to_string(window.getSize().x) + "x" + std::to_string(window.getSize().y));
 
     // run the animation and enjoy <3
     run();
@@ -114,3 +115,4 @@ void Animation::drawPixel(Eigen::Vector2d position, Eigen::Vector3i color) {
     pixel.setPosition(pixelPosition.x(), pixelPosition.y());
     window.draw(pixel);
 }
+
